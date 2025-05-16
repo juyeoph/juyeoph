@@ -1,12 +1,10 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=juyeoph&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/juyeoph?pet-id=711101999747978969"
+    src="https://render.gitanimals.org/lines/juyeoph?pet-id=711109737781675176"
     width="600"
     height="120"
   />
 </a>
-  
-  
 
 <!--
 **juyeoph/juyeoph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
