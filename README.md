@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋</h1>
+<h2>Hi there 👋</h2>
 
 <!--
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=juyeoph&utm_content=line">
